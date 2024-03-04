@@ -1,0 +1,3038 @@
+{
+  "baseWidth": 1024,
+  "backgroundColor": "white",
+  "prefix": "dhm2023",
+  "baseHeight": 1300,
+  "tags": [],
+  "predefinedVariables": [],
+  "id": "QjlpH5PJbPXXxwNLqGIm",
+  "rules": [
+    {
+      "excludeTags": [],
+      "name": "Rule-number: 1",
+      "jumpToPage": false,
+      "type": "all",
+      "conditions": [
+        {
+          "kind": "condition",
+          "name": "",
+          "variableId": "dhm2023_q25",
+          "value": 1,
+          "operator": "equal"
+        }
+      ],
+      "excludePages": [
+        "vrfPRCzkFCDgzJIszGSgUIYaAqsQtpeU"
+      ]
+    },
+    {
+      "excludeTags": [],
+      "name": "Rule-number: 2",
+      "jumpToPage": false,
+      "type": "all",
+      "conditions": [
+        {
+          "kind": "condition",
+          "name": "",
+          "variableId": "dhm2023_q27",
+          "value": 1,
+          "operator": "equal"
+        }
+      ],
+      "excludePages": [
+        "YknzmaoRLnCJhgVGNOtEdOjbzsEiOJjr"
+      ]
+    }
+  ],
+  "mainImage": {
+    "size": 58449,
+    "kind": "image-file",
+    "name": "dvm bilde",
+    "downloadUrl": "https://firebasestorage.googleapis.com/v0/b/ispe-backend-dev.appspot.com/o/user-data%2Fpol8uyHKikQdfFAyXdkuBfxIa0H3%2Fimages%2F07Optpq0hOknXT1KXFJq?alt=media&token=c8dd8a4a-58d1-4468-9c55-dda59eed71d5",
+    "id": "07Optpq0hOknXT1KXFJq",
+    "type": "image/png"
+  },
+  "name": "Det handler om meg!",
+  "sumScoreVariables": [],
+  "pages": [
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Start",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "info1",
+      "includedInSumScores": [],
+      "_type": "info-page",
+      "mainText": {
+        "audioFile": false,
+        "autoplayDelay": 0,
+        "text": "Det handler om meg!",
+        "autoplay": false
+      },
+      "id": "NvsBsVoHEZlLoiZvLqlcHMjTjesAZlFF",
+      "defaultQuestion": {
+        "prefix": "",
+        "options": [],
+        "_type": "select-one",
+        "id": "builder-question-EJEfInygmmpytMTmGKGXgTUA",
+        "text": ""
+      },
+      "mainMedia": {
+        "file": {
+          "size": 76945,
+          "kind": "image-file",
+          "name": "ispe",
+          "downloadUrl": "http://localhost:3000/image/7de5TZYQtR5UIPYmp3R0",
+          "id": "7de5TZYQtR5UIPYmp3R0",
+          "type": "image/png"
+        },
+        "overlay": false,
+        "kind": "main-image"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "info2",
+      "includedInSumScores": [],
+      "_type": "info-page",
+      "mainText": {
+        "audioFile": {
+          "duration": 13.392,
+          "originalFileName": "HGKfjvKzHQyHpClxklUqaesYMismMBILeaMJgHKagyTVqXqFHayJnPpjRkXHbUTJfsEodimjcafAIAOy",
+          "size": 107373,
+          "kind": "audio-file",
+          "name": "icf_info",
+          "downloadUrl": "http://localhost:3000/audio/2esx5JCKsRRZjVG9Jzsv",
+          "id": "2esx5JCKsRRZjVG9Jzsv"
+        },
+        "autoplayDelay": 0,
+        "text": "Først får du se en film.\nEtterpå svarer du på spørsmål.\n\nSvar det som passer for deg.\nDet er ingen rette eller gale svar.\n\nTrykk neste for å se filmen.",
+        "autoplay": true
+      },
+      "id": "PaPAYKhZhBvRFnaSVtGpiaEcCZQdQSHa",
+      "defaultQuestion": {
+        "prefix": "",
+        "options": [],
+        "_type": "select-one",
+        "id": "builder-question-nLgYqfxrpGBUMSOZokoDdieg",
+        "text": ""
+      },
+      "mainMedia": {
+        "file": {
+          "size": 58449,
+          "kind": "image-file",
+          "downloadUrl": "http://localhost:3000/image/07Optpq0hOknXT1KXFJq",
+          "name": "dvm bilde",
+          "id": "07Optpq0hOknXT1KXFJq",
+          "type": "image/png"
+        },
+        "overlay": false,
+        "kind": "main-image"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "info3",
+      "includedInSumScores": [],
+      "_type": "info-page",
+      "mainText": {
+        "audioFile": false,
+        "autoplayDelay": 0,
+        "text": "",
+        "autoplay": false
+      },
+      "id": "euzPAyFiOlipjhFclmVHhcegOoVLHgkA",
+      "defaultQuestion": {
+        "prefix": "",
+        "options": [],
+        "_type": "select-one",
+        "id": "builder-question-amznxRSsYsfxSVGEduTunajp",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "autoplay",
+        "volume": 1,
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "01_introsekvens_02.mp4",
+          "duration": 22.789438,
+          "size": 5368837,
+          "kind": "video-file",
+          "name": "dvm intro",
+          "downloadUrl": "http://localhost:3000/video/qGwKmShXyyIppTk6kK3u",
+          "id": "qGwKmShXyyIppTk6kK3u",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q1",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.52,
+          "originalFileName": "eMrelTXhaEOZvtTHiDkhgvlyZgigVidamZZVRyAyKMXlojOJutAbzSRUCNbSSFJIsRJqazfzPOdLkYRj",
+          "size": 20397,
+          "kind": "audio-file",
+          "name": "dvm Er det viktig for deg å gå på jobb",
+          "downloadUrl": "http://localhost:3000/audio/9HLFXg7QEg3YlGjwArCz",
+          "id": "9HLFXg7QEg3YlGjwArCz"
+        },
+        "autoplayDelay": 0,
+        "text": "Er det viktig for deg å gå på jobb?",
+        "autoplay": true
+      },
+      "id": "myUtrdHFdShFcrgyFPAZkhRARYaLhGvP",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-vtkVcbIqxvkMbSJxOfyzspdb",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-JjMOlYhBRllXTlJKgIcETJMv",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-TfNzBoHpHsYLKpLaZOhYgvyf",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-HaexhdtnflfHyvRGpJPUiUyc",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-NqHXeBagOszRYBDPmZmPMSQd",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "file": {
+          "duration": 8.641967,
+          "originalFileName": "02_Viktig_for-deg.mp4",
+          "size": 6200899,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/PWySY7weiQL5MNl2hw3I",
+          "name": "dvm viktig for deg",
+          "id": "PWySY7weiQL5MNl2hw3I",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q2",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "TQVAAvHGecOhTgGaUuGfzdVusbMpfBTDLqbIrnSdFBdIfPfCUuTSAtYhBKaAMoTDaeScbKvcGjDnfPkB",
+          "duration": 2.232,
+          "size": 18093,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/NwpTvYIxgLxX1jmOzkFg",
+          "name": "dvm Har du det bra på jobb",
+          "id": "NwpTvYIxgLxX1jmOzkFg"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du det bra på jobb?",
+        "autoplay": true
+      },
+      "id": "TGiIJoOHStNZtuzZAqcsOcvSAuvTAvNz",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-cCBUFRAlSBAGEAsNLChpeilA",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-FvrNgNHIGMympVXsaNkkMhyI",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-SOhFdxhoxSoioaZJLvYzUzxh",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-OrMClRbehPYjRgUfxJcpCrJq",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-vcbJNLRuRGMFUQcVQExJYCGJ",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "file": {
+          "duration": 5.005,
+          "originalFileName": "03_Bra_paa_jobb.mp4",
+          "size": 2605168,
+          "kind": "video-file",
+          "name": "dvm bra på jobb",
+          "downloadUrl": "http://localhost:3000/video/m0dljdadXWfZPvOJXGSi",
+          "id": "m0dljdadXWfZPvOJXGSi",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "info4",
+      "includedInSumScores": [],
+      "_type": "info-page",
+      "mainText": {
+        "audioFile": false,
+        "autoplayDelay": 0,
+        "text": "",
+        "autoplay": false
+      },
+      "id": "eInTcQHuzYZulsmhCINnIKFmQQUtttSU",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-eOAmfGQhXecKBGdnMQbgHDAC",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-OKFYxdDpiDdDhOBKjpIBFJiX",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-nUyRFoqcikXeRPCiFxtZceSS",
+            "label": "Ja, veldig",
+            "value": 3
+          }
+        ],
+        "id": "builder-question-DjYSOzciFEPYrpUdUfbcobtk",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "autoplay",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "01_Trivsel_begrep_02.mp4",
+          "duration": 24.491133,
+          "size": 5538860,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/TBJm9hTpkGBK1VftgjZZ",
+          "name": "dvm trivsel",
+          "id": "TBJm9hTpkGBK1VftgjZZ",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q3",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.472,
+          "originalFileName": "pZCIXtbktVvfpdbpSBmrRXFAinzaIQDkgdLzokmaODoKMErnOjXjAfOvDaQbuZhspGOEPNZaxKXqPfqa",
+          "size": 20013,
+          "kind": "audio-file",
+          "name": "dvm Har du gode oppgaver på jobb",
+          "downloadUrl": "http://localhost:3000/audio/WyK34N3zjULx7QXcyqOO",
+          "id": "WyK34N3zjULx7QXcyqOO"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du gode oppgaver på jobb?",
+        "autoplay": true
+      },
+      "id": "JFUYQlcEGDbGHATmHlDAAtMBqlhkMdbi",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-VpekLReGsQZXTndAKYGKdvJA",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-IGnxqmNeYQpzRRmeNlkQtggD",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-InqljyJSpjVKoPTfAojUUFkX",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-mEdstNIGoQNnhyaxqydoPHlL",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-gQUXQaeRKYalMvSQNjyUiBBX",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "file": {
+          "duration": 8.008,
+          "originalFileName": "02_Gode_oppgaver.mp4",
+          "size": 2916462,
+          "kind": "video-file",
+          "name": "dvm gode oppgaver",
+          "downloadUrl": "http://localhost:3000/video/51ioam6cpXp8JrTddVIt",
+          "id": "51ioam6cpXp8JrTddVIt",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q4",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "ocHPUraBDgdLHkyLtgMqNzFoShHJYDvyuaCeFXlkfyZxOFIRdpBXtTOSCjCVxffugNmFdcbZlXqeRIHq",
+          "duration": 2.064,
+          "size": 16749,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/3k1s8w3O8qCUGlLCuYAJ",
+          "name": "dvm Liker du å bake",
+          "id": "3k1s8w3O8qCUGlLCuYAJ"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å bake?",
+        "autoplay": true
+      },
+      "id": "FyssEVVzalCzGAykaCiVNcRaKYHaOQmC",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-tlgjgTkqSAhGQORpxsxyhRFO",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-TRhtokdYEVfDmqXMFvnafbPm",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-XUGdeycTMVnnDUIufkiEFqYO",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-xCPQgmoFUfoABDDgxUdXeVjo",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-EmaJpMyBCdXTBQyZrCcVaKUx",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "Bake.mp4",
+          "duration": 2.8028,
+          "size": 1075493,
+          "kind": "video-file",
+          "name": "dvm bake",
+          "downloadUrl": "http://localhost:3000/video/9mhZA8Qu4YRVCdt6uNrd",
+          "id": "9mhZA8Qu4YRVCdt6uNrd",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q5",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.472,
+          "originalFileName": "hISMkoRuBNRCjmgvcLIgfrQLkfumFtkQleOgSyPFnVZorILFPNplVjTKtlhCeBccamsUpohiqcCmtaSz",
+          "size": 20013,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/DCzuUyWuWSjTFs2jBswx",
+          "name": "dvm Liker du å dekke bord",
+          "id": "DCzuUyWuWSjTFs2jBswx"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å dekke bord?",
+        "autoplay": true
+      },
+      "id": "IvenmGVzkYBEqhiULpVcgcCGORkVHjDn",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-RkKCaLjjEHfmZGlMmGYuSGkZ",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-OsvfUXPKPsjSnzJLecgBtaoU",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-uixfNxfkThanfGYBvPCsZFit",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-OCKefmkMLFAfFqIVhygbOzTr",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-rJdKMyoKhtiPTCyruYHaXrkY",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "Dekke_bord.mp4",
+          "duration": 4.004,
+          "size": 785479,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/nveWUVw9SDQqhNHLyLL1",
+          "name": "dvm dekke bord",
+          "id": "nveWUVw9SDQqhNHLyLL1",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q6",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "nUjIqTlKfrycvXJXxnfXXyqaSeAOPrxVtyFOGPRqQqZaOzQZUnxMnvLnzBGGbzjAQvVHCAIoZdjkoDxc",
+          "duration": 2.928,
+          "size": 23661,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/XYa96RAIipkcZfwZpXRr",
+          "name": "dvm Liker du å jobbe med kappsag",
+          "id": "XYa96RAIipkcZfwZpXRr"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å jobbe med kappsag?",
+        "autoplay": true
+      },
+      "id": "aNFRZryfLjBvFHAMZLTrjMiohhJYlpAA",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-erDYUIrRMhrzTShMzbVZZKHg",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-bCrmVlsVQYnuOYDMoCJLSzpv",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-uclICqFTZpqkvqEnKeHGuMJC",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-KXSAKhIBYXRbojcKiYgHZZBR",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-ERmkKKNtpRuTOiksVnCYRqDe",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "Kappsag.mp4",
+          "duration": 2.969633,
+          "size": 957449,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/5zInMD1zXUezDEQ4ZF35",
+          "name": "dvm kappsag",
+          "id": "5zInMD1zXUezDEQ4ZF35",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q7",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "DGzIlsFaLHihfXKNUmRJpujFeEefNyGIKuosLltBLiqMGCpXhNYFpSuQqGXtaaqRiRXxHNMAGjKJRIjC",
+          "duration": 2.616,
+          "size": 21165,
+          "kind": "audio-file",
+          "name": "dvm Liker du å kaste søppel",
+          "downloadUrl": "http://localhost:3000/audio/N9yKPIlaQIoqxhQFneme",
+          "id": "N9yKPIlaQIoqxhQFneme"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å kaste søppel?",
+        "autoplay": true
+      },
+      "id": "ffEFstsRsGseqPqDUADRsMpVlNjVeopE",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-dPuNlaaeuJbLOqdQaTSdZGKY",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-QSNCGQjnNrNQHtqqiPoVjShx",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-NvMiLjhpFHXgqZzEYzxKASsz",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-rsFKBZIgOkxKIKOqenXMUvhG",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-MMbpnJrGAPDluGRZGhTFHZOY",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "file": {
+          "duration": 2.335667,
+          "originalFileName": "Kaste_soppel.mp4",
+          "size": 874430,
+          "kind": "video-file",
+          "name": "dvm kaste søppel",
+          "downloadUrl": "http://localhost:3000/video/kfXFlolqXDuHIJSFXPWp",
+          "id": "kfXFlolqXDuHIJSFXPWp",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q8",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.088,
+          "originalFileName": "jigaQGhjRcTeKYFIOgXYvFeMynFVigaevCraQXRjhfBvLvZYATvXIvbzaDmPzxbpyTQCUezsDVVTluSU",
+          "size": 16941,
+          "kind": "audio-file",
+          "name": "dvm Liker du å klippe",
+          "downloadUrl": "http://localhost:3000/audio/0e4qRDZO64i7zKmJaEMo",
+          "id": "0e4qRDZO64i7zKmJaEMo"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å klippe?",
+        "autoplay": true
+      },
+      "id": "OdDzGmJdhGIiHSOPnacMsGhsahBHEqCg",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-BlRKjeDEjyeryROlISMPSBjj",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-GEAsIVxcImEUatTHtjBCEioV",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-vLfeOxnyHlntcddyzoEXYpXz",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-tbxFzeHOYdsIUgCnFuGvbNkq",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-ZyBnhfhGPGeJBMMFevzglvhp",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "Klippe.mp4",
+          "duration": 1.334667,
+          "size": 576715,
+          "kind": "video-file",
+          "name": "dvm klippe",
+          "downloadUrl": "http://localhost:3000/video/UJlaTUrmUVwDdOTYShKF",
+          "id": "UJlaTUrmUVwDdOTYShKF",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q9",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.136,
+          "originalFileName": "AHyuhRiUuZAuVciqNqKEHmkZZMERLkjNLQyLFqLHZSKTycgMjaurtTcYUCJlsvlhxPaIfqZgsxFYTaZe",
+          "size": 17325,
+          "kind": "audio-file",
+          "name": "dvm Liker du å male",
+          "downloadUrl": "http://localhost:3000/audio/uKzVt2VdDcCrbvkubVGz",
+          "id": "uKzVt2VdDcCrbvkubVGz"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å male?",
+        "autoplay": true
+      },
+      "id": "MsieplqdnYgbfmnJmtUpPQDscJQgZyEl",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-TCkkVZKTfKJlkeVMPnlHGeUg",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-sPiTIrQKrXrcLgJOJnTCaeTk",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-XgXfitEebDKMaXRZhGRIkJGr",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-bPiUCfkeeqxoVsFnSuNkVyqN",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-ZANBaVsrMSDjYbUbpFjbXJPj",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "Male.mp4",
+          "duration": 2.669333,
+          "size": 2633488,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/XITJ7sPsr3ODP7DOuJhq",
+          "name": "dvm male",
+          "id": "XITJ7sPsr3ODP7DOuJhq",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q10",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "iksnCFDmfEIutzcRvAMmOAqbrYeknHyFOfsIxJBDuiupiTqSAMUutRpSGFryvBUznhRbmEzxYadrJYrK",
+          "duration": 2.16,
+          "size": 17517,
+          "kind": "audio-file",
+          "name": "dvm Liker du å perle",
+          "downloadUrl": "http://localhost:3000/audio/qScTwIttOWDaWwht2TwV",
+          "id": "qScTwIttOWDaWwht2TwV"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å perle?",
+        "autoplay": true
+      },
+      "id": "EyqAtIotsGNplKurYYaqhDjIdeVadsBa",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-tNtkRdMHzqbbaAecxnbeqqAB",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-OIukYhRbznCdUhXelAdZrrdE",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-HyyOVTvffoTLvlzHKPbmvgel",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-qcGArdNucOueMuBtDtnmOskI",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-FaQkrVoPaxjLaDssjxSKAzjj",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "Perle.mp4",
+          "duration": 2.002,
+          "size": 1488117,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/eijsyzeysEcMlOF7BaOk",
+          "name": "dvm perle",
+          "id": "eijsyzeysEcMlOF7BaOk",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q11",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "njHvnRFeijrsjpKffSvKypBeJJeArFqAukxPQNJIlcfIKXIFTQLCgnKGXhLRGtnMMsdmIYSLPgbesOVu",
+          "duration": 2.112,
+          "size": 17133,
+          "kind": "audio-file",
+          "name": "dvm Liker du å sage",
+          "downloadUrl": "http://localhost:3000/audio/4pw1ZJ90bD9Kez86MhFh",
+          "id": "4pw1ZJ90bD9Kez86MhFh"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å sage ved?",
+        "autoplay": true
+      },
+      "id": "lyOrmmnLscujhzErOrOluAHasrLjqkLg",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-DiPLvpVuGLVdiHkteetmntRk",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-fuOhpztQiQtLltRDYivFcllV",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-yHdfAJiIdqtHncKojsKrctaU",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-djBEiacAqzkSgZrydeEEvMdh",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-iJKuMHEzfuJNPvvJGuqofKxQ",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 2.635967,
+          "originalFileName": "Sage.mp4",
+          "size": 1372116,
+          "kind": "video-file",
+          "name": "dvm sage",
+          "downloadUrl": "http://localhost:3000/video/p2dsgdSHLldTbEq45ClD",
+          "id": "p2dsgdSHLldTbEq45ClD",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q12",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.424,
+          "originalFileName": "yfZyAXzDbgmQThrUkGCUqyImncssVjrjZIPALxyoJPbzaqHmlCcFlkGgfbvZRXQMPuuJuYjCclXQFvTD",
+          "size": 19629,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/i0PviUJFnWnJ1TRHdOiV",
+          "name": "dvm Liker du å spille bingo",
+          "id": "i0PviUJFnWnJ1TRHdOiV"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å spille bingo?",
+        "autoplay": true
+      },
+      "id": "PneeNTIJpajydhhICMrkEflqfzvTZtlD",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-sybuSpBPCQPlFxfRuzCofCuE",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-lAmaPNXhIKzLSfEMVFxqGRPz",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-yJRqpPhhqOLAcZeSMQRGgPeN",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-lsSRKpEHuEqpniPddeExlsoa",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-vTYmCfpznFUonsEinzJThoaf",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "Spille_bingo.mp4",
+          "duration": 3.003,
+          "size": 617216,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/ls7szjWFzdnkBYbuNHYE",
+          "name": "dvm spille bingo",
+          "id": "ls7szjWFzdnkBYbuNHYE",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q13",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.472,
+          "originalFileName": "gJubVZCcgDuSJphrdxevYIabORFnKyxPTHGkICeglXgUDhOVIgnszttkiUJMAPTquDFttiUcXnRnzrTQ",
+          "size": 20013,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/PWJtx4yXAyYKjJb5CIgW",
+          "name": "dvm Liker du å stelle høner",
+          "id": "PWJtx4yXAyYKjJb5CIgW"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å stelle høner?",
+        "autoplay": true
+      },
+      "id": "NponEKyKUNnbyMupspQusZAOYSGZIabB",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-aYzcLvIZCEpvjBtRNxYtIXCR",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-oGhjZXbVvNEeunvIqdyblKFP",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-NTrpXuDbcmesnUGPZKdAXhSX",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-NuFTbfikfXjpgTejNttKqoZl",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-qCfHVZdLhrajkJeGHdmtflMX",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "file": {
+          "duration": 1.668333,
+          "originalFileName": "Stelle_honer.mp4",
+          "size": 599633,
+          "kind": "video-file",
+          "name": "dvm stelle høner",
+          "downloadUrl": "http://localhost:3000/video/xDnltMx8Q6ErVHKtygv2",
+          "id": "xDnltMx8Q6ErVHKtygv2",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q14",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "bVOENyhqGPEqjCjcXosdrhtsZhLvhNoBKXYncCYNjouTsLCIgTmOuEVXfDappFfzkJRqVIDIbpeeXxax",
+          "duration": 2.784,
+          "size": 22509,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/74Wj7aIxsE8D2k2vzIJo",
+          "name": "dvm Liker du å sy med symaskin",
+          "id": "74Wj7aIxsE8D2k2vzIJo"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å sy med symaskin?",
+        "autoplay": true
+      },
+      "id": "GsBtqmdonUnyBbDSNiOsJQcKBLPNivqj",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-HHvVfPQNjSTyAEspzplZmCvl",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-ifOBzYApObAeznIuJpjoMvkb",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-opLpeOEVmUyfLQLZzNlbHfnk",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-PuofnKfJdPpJKRmlcjUdqVuA",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-PeqaYZVoJnEVGoPtcMlgVagl",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "Symaskin.mp4",
+          "duration": 2.4024,
+          "size": 335848,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/UOy4ohcAbcXNopLQXr5b",
+          "name": "dvm symaskin",
+          "id": "UOy4ohcAbcXNopLQXr5b",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q15",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.4,
+          "originalFileName": "qfHtoxZagPJKyiXxuBrAtijMTNtFybdrAGeMOguxGnBdGlDjqXIzSaoUCagVfUqBQGgskIQqpvjyIRTp",
+          "size": 19437,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/6jOerbqe7mkJdCVuQflu",
+          "name": "dvm Liker du å vaske gulv",
+          "id": "6jOerbqe7mkJdCVuQflu"
+        },
+        "autoplayDelay": 0,
+        "text": "Liker du å vaske gulv?",
+        "autoplay": true
+      },
+      "id": "AdDSzZeztPgQVKycAFsvNFeqILdhejKt",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-jYsvJBFaBxxjxjUpTAkgdjpN",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-LiNhXEKIGfEphpBgevfcKYlG",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-mpdNajdLbQYSAXoXotMUspoJ",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-hOvZZpleCUkGLyjcBeTJrsNe",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-vjZGbtNUdgXoxjGapyzXtZqK",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 1.334667,
+          "originalFileName": "Vaske_gulv.mp4",
+          "size": 634960,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/iN9yciHk5wzAEfvXzWzq",
+          "name": "dvm vaske gulv",
+          "id": "iN9yciHk5wzAEfvXzWzq",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q16",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "SQATxLAdnIgVEuTKOVzIiPHFyAhnLlCfZnDryszVVelnEtCPOhzkYIZJvcDlyOiSyNnxlNQBEYNpRcLM",
+          "duration": 3.192,
+          "size": 25773,
+          "kind": "audio-file",
+          "name": "dvm Har du disse oppgavene ofte nok",
+          "downloadUrl": "http://localhost:3000/audio/SffRwOwz8rHXoVVOTDFq",
+          "id": "SffRwOwz8rHXoVVOTDFq"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du disse oppgavene ofte nok?",
+        "autoplay": true
+      },
+      "id": "jblUUHGpziEiEOjROGVVoUSKbnmUdYcz",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-iVYCvpJzonqBuNjtFMPrUKpR",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-eCTpXpZkDjCRdXtFDprfmlai",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-qFoTBzMUAITPBKqMCiLYqIdZ",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-oKAcjipoFExVXyQajbijHTob",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-fVCocUihuTtOLsKcCKgqxZEq",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "05_Kjekke_oppgaver_ofte_nok.mp4",
+          "duration": 12.212208,
+          "size": 1551204,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/mmEbZyeAvaNZUTRbY0Em",
+          "name": "dvm kjekke oppgaver ofte nok",
+          "id": "mmEbZyeAvaNZUTRbY0Em",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "info5",
+      "includedInSumScores": [],
+      "_type": "info-page",
+      "mainText": {
+        "audioFile": false,
+        "autoplayDelay": 0,
+        "text": "",
+        "autoplay": false
+      },
+      "id": "gzLUHHnkhqQjcFVHOBhHFTVBToaHkoFq",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-TuLMTixmPNXFcOnzMIMNKqtI",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-RVErJEzSQoTIvEvUguhGOSVB",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-HRKAbHtDvyQTRGXSkNTZxQEj",
+            "label": "Ja, veldig",
+            "value": 3
+          }
+        ],
+        "id": "builder-question-yskcLuJgUfNquQMhhdJikVzg",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "autoplay",
+        "volume": 1,
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "01_Informasjon_begrep_02.mp4",
+          "duration": 17.384042,
+          "size": 3573997,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/AVrTUfA5gGJIRFto4uVS",
+          "name": "dvm informasjon",
+          "id": "AVrTUfA5gGJIRFto4uVS",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q17",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.952,
+          "originalFileName": "IDGEcSLlPmPMpzfgGfLSBSinHtTGoSAopFNszspfqCvRzzUUdnzVmuhKDXpOooByuaIFfqasEhLEyhAy",
+          "size": 23853,
+          "kind": "audio-file",
+          "name": "dvm Får du vite hva du skal gjøre på jobb",
+          "downloadUrl": "http://localhost:3000/audio/IJAJ1x7seBcQCKCVVDVs",
+          "id": "IJAJ1x7seBcQCKCVVDVs"
+        },
+        "autoplayDelay": 0,
+        "text": "Får du vite hva du skal gjøre på jobb?",
+        "autoplay": true
+      },
+      "id": "dtOprzNeSDbYONVnDdGrOKqbQkMVfNYA",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-zAfVcaKouSugUmzeexsdPfoA",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-kPguggITBXyJuCscMKujqjyT",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-lMLKEUyIDZQjUfbUZcenxjFV",
+            "label": "Ja, ofte",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-AlOLHsyLFiAiNHPZdAdZMMxh",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-yCJJImioQjEQoexgDTaSzUvc",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "02_Beskjed_om_hva.mp4",
+          "duration": 8.008,
+          "size": 6015158,
+          "kind": "video-file",
+          "name": "dvm beskjed om hva du skal gjøre",
+          "downloadUrl": "http://localhost:3000/video/nyAo46LEENNAwuqU0afw",
+          "id": "nyAo46LEENNAwuqU0afw",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q18",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "qVthnHMYFygibNYxQQNaafVybVSjteskgQLeDNOGIuuAUitqPYNZNYhNsadcHHfeVpyjmiVraGuioyfi",
+          "duration": 3.216,
+          "size": 25965,
+          "kind": "audio-file",
+          "name": "dvm Får du vite hvordan du skal gjøre jobben",
+          "downloadUrl": "http://localhost:3000/audio/CJA7ggXZnNtubI6ChFTR",
+          "id": "CJA7ggXZnNtubI6ChFTR"
+        },
+        "autoplayDelay": 0,
+        "text": "Får du vite hvordan du skal gjøre jobben?",
+        "autoplay": true
+      },
+      "id": "MMlMnUveQCQPNDFsmObnrDtfJFhZsYOG",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-zNhzvTMKYAqtpnecuOrdQTpZ",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-GiQjmfDKaGgBCedPvFRsTAep",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-IBHojlkoUHMXIfFAclRmejpt",
+            "label": "Ja, ofte",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-jHnjfOICAocgxhSlMUdSingE",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-XnySrHtUAXbdkZjTBroDuEpH",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 9.109104,
+          "originalFileName": "03_Beskjed_om_hvordan.mp4",
+          "size": 3695598,
+          "kind": "video-file",
+          "name": "dvm beskjed om hvordan",
+          "downloadUrl": "http://localhost:3000/video/hzS4x7n9K0qIrZygsUzt",
+          "id": "hzS4x7n9K0qIrZygsUzt",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q19",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.808,
+          "originalFileName": "sYGOekxzAhMjuauuAHdnVLiikTRROQgudRtkfqEYsXBCOaRYtgSoBcZhEcsoSRoqySJGYHtFhjhQQCuq",
+          "size": 22701,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/sEyZeg4BXbbb5FngguJ9",
+          "name": "dvm Får du vite hvem du skal jobbe med",
+          "id": "sEyZeg4BXbbb5FngguJ9"
+        },
+        "autoplayDelay": 0,
+        "text": "Får du vite hvem du skal jobbe med?",
+        "autoplay": true
+      },
+      "id": "RiOGEcvHrvKZnfZRdSFYFcqYlUKdnVKn",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-odkzAFrkSocPTMnHITmThTqg",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-rvOaKVrBDbeQktncAQbccKeE",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-pPrYdgGaOnmEQhVOPzljSjZh",
+            "label": "Ja, ofte",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-KYXtqqUTnePhtoOsiPNhxend",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-YtpoffzrnqJDkZBlNsqAJQlC",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "file": {
+          "duration": 6.006,
+          "originalFileName": "04_Beskjed_om_med_hvem.mp4",
+          "size": 1564740,
+          "kind": "video-file",
+          "name": "dvm beskjed om hvem",
+          "downloadUrl": "http://localhost:3000/video/Tgdjxp0jtUOkjxk2C8X6",
+          "id": "Tgdjxp0jtUOkjxk2C8X6",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q20",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "ttpFgxQbyrIrTzZRQAQqshASjYJRBJMrSFUhsNPeuLFIvBpbLTKMZOZQxiBUUtfsSxyMuQZSsquXPzhG",
+          "duration": 3.552,
+          "size": 28653,
+          "kind": "audio-file",
+          "name": "dvm Får du vite om det blir forandringer i din jobb",
+          "downloadUrl": "http://localhost:3000/audio/JM5vsp1OxHioNB7y6Izb",
+          "id": "JM5vsp1OxHioNB7y6Izb"
+        },
+        "autoplayDelay": 0,
+        "text": "Får du vite om det blir forandringer i din jobb?",
+        "autoplay": true
+      },
+      "id": "qUIdiJUIVzVuoeMhhpoFdVOaITtlmjIR",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-cvDbGlgiYEyMMForaCDfvcQv",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-rRrDPxxxRBbTPxKdEFsyMkdT",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-hhnYVyKozkbJxGiucdNniQun",
+            "label": "Ja, ofte",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-OUiiHiNqUmYhFdePboSpjBcU",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-ZuxOULAsbQpsgjxheytURplI",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "05_Beskjed_om_forandringer.mp4",
+          "duration": 5.005,
+          "size": 2410190,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/IFelkVvuFie1gMy40pzm",
+          "name": "dvm beskjed om forandringer",
+          "id": "IFelkVvuFie1gMy40pzm",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "info6",
+      "includedInSumScores": [],
+      "_type": "info-page",
+      "mainText": {
+        "audioFile": false,
+        "autoplayDelay": 0,
+        "text": "",
+        "autoplay": false
+      },
+      "id": "tKrsEcHDniuZuEjSSvzOgQgqczMaVSeO",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-mdKEzsmUoXVuipNcfCvKyCdT",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-LkPTTlxyoAxtRbTnmkLFVfOo",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-EjthzcHSaKLGdJpcBIrlRXra",
+            "label": "Ja, veldig",
+            "value": 3
+          }
+        ],
+        "id": "builder-question-qgPYVNOhqVULvmJkIplMbmSi",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "autoplay",
+        "volume": 1,
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "01_Brukermedvirkning_begrep_02.mp4",
+          "duration": 20.620604,
+          "size": 3245090,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/VRsxqLF2JkGtMUpokDKk",
+          "name": "dvm brukermedvirkning",
+          "id": "VRsxqLF2JkGtMUpokDKk",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q21",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 4.464,
+          "originalFileName": "mfKlbTViJcSQXHzYgUMKiocxzSzXcySUyVKMFyAfbAyJJMIPeNqGKEBKBdRopOtsQScbaYmJBeHXMNlz",
+          "size": 35949,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/eBbsHmi1yNcsstkmZIfU",
+          "name": "9dvm Kan du snakke med noen hvis du vil gjøre noe annet på jobb",
+          "id": "eBbsHmi1yNcsstkmZIfU"
+        },
+        "autoplayDelay": 0,
+        "text": "Kan du snakke med noen hvis du vil gjøre noe annet på jobb?",
+        "autoplay": true
+      },
+      "id": "dBVochotQltCQSfMdUBPlFFlbrEDFIpy",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-savpdFJozTKquEevrxsMVDxk",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-qVcHtaDRNxFbKtgudnGnNXKz",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-lrdRZmHocXqfgfUVFArHgQKG",
+            "label": "Ja, ofte",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-lUAFexnJEHugnENtMJxTeDbF",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-plEuvPyVjpuzMuNGAhPVFUUS",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "02_snakke_gjøre_noe_annet.mp4",
+          "duration": 4.5045,
+          "size": 1172809,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/rCKvW5CTsGSIjPSEePuE",
+          "name": "dvm snakke gjøre noe annet",
+          "id": "rCKvW5CTsGSIjPSEePuE",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q22",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 4.296,
+          "originalFileName": "TcmmbnlgxoFyHrcjCURMrSlcqjMpLrVvdZZlddaxbJjjRCTRZJkkCShbOtYReKPZcnsrOrKXBmSnMZXZ",
+          "size": 34605,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/6TM5RUspBlnZROFLS1j7",
+          "name": "dvm Har du faste møter med personalet om hvordan du har det på jobb",
+          "id": "6TM5RUspBlnZROFLS1j7"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du faste møter med personalet om hvordan du har det på jobb?",
+        "autoplay": true
+      },
+      "id": "PsdbHGLnNtBGnkkYmOhHODrDDYaKolTL",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-gulsiZAkGZjzNfSHGAFazGre",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-KPhBBeSmUYndhbixuStJJbvY",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-KZZAehlnKhbPyqRpqOstPSET",
+            "label": "Ja, ofte",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-pqOOFblcfBRySPumdNLYihFd",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-YHMXrVtxcumqlmmVXXAnRjfc",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 1.668333,
+          "originalFileName": "03_Faste_moter_med_personalet.mp4",
+          "size": 386103,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/vzmLso53mzQyG1M6vMW7",
+          "name": "dvm faste møter med personal",
+          "id": "vzmLso53mzQyG1M6vMW7",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q23",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "XnODqOFchDFbXrJKBETGZxdCuKGGqduOITDBMNeNQzuLUmQGduTynUVkAoZgcAPtZyiTNSliVfxCNCMM",
+          "duration": 5.904,
+          "size": 47469,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/0SLzbGYxYT727Mpuvv3e",
+          "name": "dvm Har du noen du er trygg på som du kan ha med deg på møter eller samtaler",
+          "id": "0SLzbGYxYT727Mpuvv3e"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du noen du er trygg på, som du kan ha med deg på møter eller samtaler?",
+        "autoplay": true
+      },
+      "id": "brvTRPDciYAAzCupKqmJyGASRqmzmpOI",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-yfPFDdXZypvjyhypInHvyjAX",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-bsrBomXLyZkZqqghRXVAXcyu",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-nnznLouVuaJKfeKYoBXayvuy",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-eXBkJLCMiKhqJyRTaFzjyopy",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-tYoNZtXBvTYMlSHokvJfMZUy",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "04_Noen_du_er_trygg_paa.mp4",
+          "duration": 1.434771,
+          "size": 495006,
+          "kind": "video-file",
+          "name": "dvm noen du er trygg på",
+          "downloadUrl": "http://localhost:3000/video/490j5lbKjLNrioEQLxxA",
+          "id": "490j5lbKjLNrioEQLxxA",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "info7",
+      "includedInSumScores": [],
+      "_type": "info-page",
+      "mainText": {
+        "audioFile": false,
+        "autoplayDelay": 0,
+        "text": "",
+        "autoplay": false
+      },
+      "id": "NHaBySyvUzLIhSkCTjZJRfZfbspDgtOz",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-HKlQkMnEBNOybMBKVoacuOhq",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-LPoLQDVTIjKRjMNkiRFqbeUt",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-agZSCfmRCCPzcCLDBrLqTVyx",
+            "label": "Ja, veldig",
+            "value": 3
+          }
+        ],
+        "id": "builder-question-kZxFsaNFcaBmnOypTbAOPCRd",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "autoplay",
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "01_Trygghet_begrep_02.mp4",
+          "duration": 15.982633,
+          "size": 4152852,
+          "kind": "video-file",
+          "name": "dvm trygghet",
+          "downloadUrl": "http://localhost:3000/video/LiOUC5AaA9Z5hsqbyCnc",
+          "id": "LiOUC5AaA9Z5hsqbyCnc",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q24",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.568,
+          "originalFileName": "XUrCUndydkdjoUrCGyCVJQAOxujJeMIAoTtMVFudcSJmYqKFaNXFhiSHRprQKFDdmjnlrlpsPkBIkQdm",
+          "size": 20781,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/dQvx3CbP5jCTVPNsR7qp",
+          "name": "dvm Får du hjelp hvis du trenger det",
+          "id": "dQvx3CbP5jCTVPNsR7qp"
+        },
+        "autoplayDelay": 0,
+        "text": "Får du hjelp hvis du trenger det?",
+        "autoplay": true
+      },
+      "id": "jsLBcQLEOJdzCDQeQAKtvrrEEKojGKrs",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-VlBcQFJcYgcFBbcygooTFQMh",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-xHbTAyFoQNkXvERIbanryzpS",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-gvcgLdFeKjCUvcDBXzofKnSD",
+            "label": "Ja, ofte",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-KzMxhXTEXgKbQNbHcUMYRcGp",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-BcmuEXMSXnOeiPDgqIfGEupJ",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "02_Hjelp_naar_du_trenger_det.mp4",
+          "duration": 4.571233,
+          "size": 6067762,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/6v6VfVohfMsCdWvBRMSb",
+          "name": "dvm hjelp når du trenger det",
+          "id": "6v6VfVohfMsCdWvBRMSb",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q25",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "EJyfqykxkOxqKOhbMVPIJIZJkQUiqZHVKDzPQTluJSJijGLogjUvmSeUspkzIItTmzSrseGEUGuimxtl",
+          "duration": 3.12,
+          "size": 25197,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/4HVjK7z10l3RXByL8n8S",
+          "name": "dvm Er det noe du synes er vanskelig på jobb",
+          "id": "4HVjK7z10l3RXByL8n8S"
+        },
+        "autoplayDelay": 0,
+        "text": "Er det noe du synes er vanskelig på jobb?",
+        "autoplay": true
+      },
+      "id": "VRVymQDeHnGtOgPZIrphFDfDiNaihNjv",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-kkMirIOyliiQsibreBLMxNBe",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-lzxyaULJHMeVbZFuBoHsjafz",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-voDEUeXqmJRqQyzKTGJInBXU",
+            "label": "Ja, ofte",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-kmmFSGvFzmNnZXBJvPyINKBE",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-VsssbjSVmAjtfOHPFIDYpQHB",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "file": {
+          "duration": 3.937271,
+          "originalFileName": "04_Er_noe_vanskelig.mp4",
+          "size": 735528,
+          "kind": "video-file",
+          "name": "dvm er noe vanskelig",
+          "downloadUrl": "http://localhost:3000/video/jHnJ6WngRcKg2krDeL8l",
+          "id": "jHnJ6WngRcKg2krDeL8l",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q26",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.976,
+          "originalFileName": "DqnzOyDadNHAZkHNRAfQHMyrAXegMkJNJhdoLqGVIHiGzAQMPQbddZlyTMLMHtOQppJAhyfLnuaIgOgr",
+          "size": 24045,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/A8WznNl6YdDYXxqQzOwi",
+          "name": "dvm Har du sagt ifra til personal",
+          "id": "A8WznNl6YdDYXxqQzOwi"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du sagt ifra til personal?",
+        "autoplay": true
+      },
+      "id": "vrfPRCzkFCDgzJIszGSgUIYaAqsQtpeU",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-lmZCVAnOQVhTBkueYtQsFXrg",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-MXzIdzdvptOsvRuOeONfqiJr",
+            "label": "Ja",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-zVCNLIXizhEmHKiejYIUKsxT",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-XZfpBxHMurcZTSKanvRaIcse",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 3.937271,
+          "originalFileName": "04_Er_noe_vanskelig.mp4",
+          "size": 735528,
+          "kind": "video-file",
+          "name": "dvm er noe vanskelig",
+          "downloadUrl": "http://localhost:3000/video/jHnJ6WngRcKg2krDeL8l",
+          "id": "jHnJ6WngRcKg2krDeL8l",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q27",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 3.288,
+          "originalFileName": "LlhzJFBqEshEhGsnaqBhifbcJxfuNVFXAKQsPkecdnZfYmAJDFjyNdUhMpecMMGFNIfzfjcMQlGBKJfO",
+          "size": 26541,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/8QEFDdcANeAyMDzYIWPS",
+          "name": "dvm Er det noe eller noen du er redd for på jobb",
+          "id": "8QEFDdcANeAyMDzYIWPS"
+        },
+        "autoplayDelay": 0,
+        "text": "Er det noe eller noen du er redd for på jobb?",
+        "autoplay": true
+      },
+      "id": "SmenrsLYaMdgSslBsyzbQtsyMgQADrDd",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-NpsqdxBgavvFnpeFjETaGmIo",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-MEZezKhZcrMMzUbouUMRjlhR",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-jFMMLaUbeMZFttSEJBtcSutm",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-sFuahqNCEBGJogfJKckPzlFf",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-GmReVSQkXGyOztUEzXrJuIBD",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "file": {
+          "duration": 3.9039,
+          "originalFileName": "05_Redd_for.mp4",
+          "size": 850129,
+          "kind": "video-file",
+          "name": "dvm redd for",
+          "downloadUrl": "http://localhost:3000/video/wcOaqODO75K6SlTtpds0",
+          "id": "wcOaqODO75K6SlTtpds0",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q28",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "DqnzOyDadNHAZkHNRAfQHMyrAXegMkJNJhdoLqGVIHiGzAQMPQbddZlyTMLMHtOQppJAhyfLnuaIgOgr",
+          "duration": 2.976,
+          "size": 24045,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/A8WznNl6YdDYXxqQzOwi",
+          "name": "dvm Har du sagt ifra til personal",
+          "id": "A8WznNl6YdDYXxqQzOwi"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du sagt ifra til personal?",
+        "autoplay": true
+      },
+      "id": "YknzmaoRLnCJhgVGNOtEdOjbzsEiOJjr",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-GXIImdiOzMqifFuulXHMcJUL",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-tXLeVGLVCkKKfpeSnuUzLLgT",
+            "label": "Ja",
+            "value": 2
+          }
+        ],
+        "id": "builder-question-otsmczNIsxNtQpPBggLulRBS",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 3.9039,
+          "originalFileName": "05_Redd_for.mp4",
+          "size": 850129,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/wcOaqODO75K6SlTtpds0",
+          "name": "dvm redd for",
+          "id": "wcOaqODO75K6SlTtpds0",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q29",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 4.464,
+          "originalFileName": "tThQNkTqAHGJeRqjlgrqoBzlzOauiRlLpHXVnXvqPsIVdaAZlcLdeEfGnrOzeZEDyggjxBiYzDUpMCdx",
+          "size": 35949,
+          "kind": "audio-file",
+          "name": "dvm Har du personal eller arbeidsleder som du er trygg på",
+          "downloadUrl": "http://localhost:3000/audio/FkYTCmkgVsJK4KyJQHiJ",
+          "id": "FkYTCmkgVsJK4KyJQHiJ"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du personal eller arbeidsleder som du er trygg på?",
+        "autoplay": true
+      },
+      "id": "VEJGqkvDdYDEcBFugtalKRQirzCPcKqr",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-RNdbcgftmiRGxgzZbcVHGOlL",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-NrkbKHxiyIAEMsBRPbPKfMyc",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-nZAqrizfTrIcDKapleDYICEy",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-eZxKODEZHUxjFIVtelnejDre",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-LiplSHrlzMbvocfZAslvkxRZ",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "06_Personal_trygg_paa.mp4",
+          "duration": 4.004,
+          "size": 3126292,
+          "kind": "video-file",
+          "name": "dvm personal trygg på",
+          "downloadUrl": "http://localhost:3000/video/uDY93xdAqLDt2Ug6YsRd",
+          "id": "uDY93xdAqLDt2Ug6YsRd",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "info8",
+      "includedInSumScores": [],
+      "_type": "info-page",
+      "mainText": {
+        "audioFile": false,
+        "autoplayDelay": 0,
+        "text": "",
+        "autoplay": false
+      },
+      "id": "gkocnDpmBDqdhGiHIeHvlzHDvkHbzoDV",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-VcBqqofckRVoXNBBzbYQrPvt",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-lZImBvYCTDayaGzjyMNyNvPG",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-iEhCChVvSuRSdcHkYgJeisUT",
+            "label": "Ja, veldig",
+            "value": 3
+          }
+        ],
+        "id": "builder-question-pQMeDBdKaUINFNAQoDSfFHsp",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "autoplay",
+        "preDelay": 1200,
+        "file": {
+          "duration": 24.124104,
+          "originalFileName": "01_Arbeidsmiljo_begrep_02.mp4",
+          "size": 5370653,
+          "kind": "video-file",
+          "name": "dvm arbeidsmiljø",
+          "downloadUrl": "http://localhost:3000/video/cAkIFrsny2Dp2RqSNRmP",
+          "id": "cAkIFrsny2Dp2RqSNRmP",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q30",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "UFASblhPeXIpBAuFpMgpZVlDfeZGcCpeEeBmLUgIsmDqisHUZMxbyDVBtOEKjEyjIYSqJhirCMHYZaoU",
+          "duration": 2.712,
+          "size": 21933,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/zAAIj1lujGITCJUzvVHt",
+          "name": "dvm Gleder du deg til å gå på jobb",
+          "id": "zAAIj1lujGITCJUzvVHt"
+        },
+        "autoplayDelay": 0,
+        "text": "Gleder du deg til å gå på jobb?",
+        "autoplay": true
+      },
+      "id": "dAGbGAJPQDMdtTVGTDTUmoRQablGgVeB",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-uevJLmuZGBMDlscDGDfgsDuf",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-EeBpCmXCRrPsNlEQFXhkKSZt",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-OUpJOaSpgMrZlQVQnSppRaNS",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-CQCEBUssndufZPkQpvrZTHPa",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-DdQTlIMzpIfLnJvYeRtSSHsL",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 3.003,
+          "originalFileName": "02_Gleder_du_deg.mp4",
+          "size": 1076533,
+          "kind": "video-file",
+          "name": "dvm arbeidsmiljø gleder deg",
+          "downloadUrl": "http://localhost:3000/video/Tvevq4XPxGEOTjkQ8A1s",
+          "id": "Tvevq4XPxGEOTjkQ8A1s",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q31",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 4.008,
+          "originalFileName": "IgTTZQgZVoDrgiOsjGmhzbfMivssGBpqsODdVMHucJSkIAnUlyeXFZFNzNnUIEdZkEMruEvkZfLGlXhD",
+          "size": 32301,
+          "kind": "audio-file",
+          "name": "dvm Er du med å gjøre arbeidsdagen kjekk for de andre på jobb",
+          "downloadUrl": "http://localhost:3000/audio/tGfSYKFKyhK5LCObr1TF",
+          "id": "tGfSYKFKyhK5LCObr1TF"
+        },
+        "autoplayDelay": 0,
+        "text": "Er du med å gjøre arbeidsdagen kjekk for de andre på jobb?",
+        "autoplay": true
+      },
+      "id": "MGuLAJqmghnRAkUdfDujnHbSpijAsppy",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-YoixEiJJaLzvGDRFPXzvoCyc",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-KBKLOlDKsdbNeoGzUCcISXck",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-VPTNYrvlLMGnJXiYZRSjZUpP",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-OrpymroUPeCSGixsXPQRbcuE",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-bDemBQZrIItbnVdsRUFjbKqG",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "originalFileName": "03_Arbeidsdag_kjekk_for_andre.mp4",
+          "duration": 3.336667,
+          "size": 1571424,
+          "kind": "video-file",
+          "name": "dvm arb eidsmiljø kjekk for andre",
+          "downloadUrl": "http://localhost:3000/video/m9jHEbCpTnb7vudQZJnB",
+          "id": "m9jHEbCpTnb7vudQZJnB",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q32",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 3.648,
+          "originalFileName": "ECzHbqybPUfkKtcMyLSKctdpaKfeSgHpkOJApblExRTdathZFFlVlHFHZxvbyRvAxSJZtlbBjmisaRUT",
+          "size": 29421,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/S6cIGihHORWuUHmUuiHl",
+          "name": "dvm Har du jobbvenner eller kolleger du trives med",
+          "id": "S6cIGihHORWuUHmUuiHl"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du jobbvenner eller kolleger du trives med?",
+        "autoplay": true
+      },
+      "id": "PtaloQVqnpuCBDAdFQriptzyvgEfMcRp",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-ZhpNZbsjczjmJmFfngeDTGDh",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-yXrmCxlchJyhXBJotZmQoneG",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-RjmpNaaUJYqJbGuhofdPmGVs",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-ZIxDTOnbbJeqMIYViLTDpJGp",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-rANyDxGRdAentEgKqfZAxarN",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 3.003,
+          "originalFileName": "04_Jobbvenner.mp4",
+          "size": 715865,
+          "kind": "video-file",
+          "name": "dvm arbeidsmiljø jobbvenner",
+          "downloadUrl": "http://localhost:3000/video/bIPYVCBDu38CSvp2Tklh",
+          "id": "bIPYVCBDu38CSvp2Tklh",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q33",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "duration": 2.52,
+          "originalFileName": "eMrelTXhaEOZvtTHiDkhgvlyZgigVidamZZVRyAyKMXlojOJutAbzSRUCNbSSFJIsRJqazfzPOdLkYRj",
+          "size": 20397,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/9HLFXg7QEg3YlGjwArCz",
+          "name": "dvm Er det viktig for deg å gå på jobb",
+          "id": "9HLFXg7QEg3YlGjwArCz"
+        },
+        "autoplayDelay": 0,
+        "text": "Er det viktig for deg å gå på jobb?",
+        "autoplay": true
+      },
+      "id": "yPVpsOndSOBYocZhQCOsBFkFBgHLNNgP",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-MiyoKhkNQcMguxdJTbqrRFBy",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-raDVIEdtKZliFuGYYeZiECnu",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-PFvnOXdXFbKkFasJKNKXZaKM",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-DMiofuJmjRcVxgBbADVajaMT",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-yYexICTfpcfvJpSRxVLqsvOl",
+        "text": ""
+      },
+      "mainMedia": {
+        "volume": 1,
+        "mode": "gif-mode",
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 8.641967,
+          "originalFileName": "02_Viktig_for-deg.mp4",
+          "size": 6200899,
+          "kind": "video-file",
+          "name": "dvm viktig for deg",
+          "downloadUrl": "http://localhost:3000/video/PWySY7weiQL5MNl2hw3I",
+          "id": "PWySY7weiQL5MNl2hw3I",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q34",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "TQVAAvHGecOhTgGaUuGfzdVusbMpfBTDLqbIrnSdFBdIfPfCUuTSAtYhBKaAMoTDaeScbKvcGjDnfPkB",
+          "duration": 2.232,
+          "size": 18093,
+          "kind": "audio-file",
+          "name": "dvm Har du det bra på jobb",
+          "downloadUrl": "http://localhost:3000/audio/NwpTvYIxgLxX1jmOzkFg",
+          "id": "NwpTvYIxgLxX1jmOzkFg"
+        },
+        "autoplayDelay": 0,
+        "text": "Har du det bra på jobb?",
+        "autoplay": true
+      },
+      "id": "CuLOMMLIMrmPtYNhJCTaYFGucBaBUKGm",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-uUofJuemltsLYHzVMltmCPpV",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-tdnsdUnEcscSDXfsKbTOxkPz",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-GmQzQPQQYzDrusCOBDYmYsPZ",
+            "label": "Ja, veldig",
+            "value": 3
+          },
+          {
+            "id": "builder-question-option-RiGgqQnkJVjcksknCfkVSvnA",
+            "label": "Hopp over",
+            "value": 9
+          }
+        ],
+        "id": "builder-question-uDpAyeRgvDiJdvpcjmzmGyPi",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "file": {
+          "originalFileName": "03_Bra_paa_jobb.mp4",
+          "duration": 5.005,
+          "size": 2605168,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/m0dljdadXWfZPvOJXGSi",
+          "name": "dvm bra på jobb",
+          "id": "m0dljdadXWfZPvOJXGSi",
+          "type": "video/mp4"
+        },
+        "controls": true,
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Neste",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "q35",
+      "includedInSumScores": [],
+      "_type": "question",
+      "mainText": {
+        "audioFile": {
+          "originalFileName": "DEEXmgysKeLUBCcLslCAgdRuerMKOpEdqZKlarHkcbOytbBLxLHALdroLjZYCCRBGJmYNOdHXQnOCEQE",
+          "duration": 5.664,
+          "size": 45549,
+          "kind": "audio-file",
+          "name": "dvm samtykke",
+          "downloadUrl": "http://localhost:3000/audio/g9wy3B6JJiCerFX15cig",
+          "id": "g9wy3B6JJiCerFX15cig"
+        },
+        "autoplayDelay": 0,
+        "text": "Jeg er enig i at mine svar kan brukes for å gjøre min arbeidsplass bedre",
+        "autoplay": true
+      },
+      "id": "ltDDHlmAtbNPjDDlEooZzcqsZGzJMTBl",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-EirXBUlyEEPgDTkkbLBihqMs",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-SxLiBcOgrjOCmUhNSQMPSSml",
+            "label": "Ja",
+            "value": 2
+          }
+        ],
+        "id": "builder-question-vapxnYaEcMyZydbAkGMcmtMh",
+        "text": ""
+      },
+      "mainMedia": {
+        "mode": "gif-mode",
+        "volume": 1,
+        "preDelay": 1200,
+        "controls": true,
+        "file": {
+          "duration": 4.004,
+          "originalFileName": "03_samtykke.mp4",
+          "size": 741038,
+          "kind": "video-file",
+          "downloadUrl": "http://localhost:3000/video/qnXQ46mcHyHbuiEIxsrU",
+          "name": "dvm samtykke",
+          "id": "qnXQ46mcHyHbuiEIxsrU",
+          "type": "video/mp4"
+        },
+        "kind": "main-video"
+      },
+      "tags": []
+    },
+    {
+      "nextButton": {
+        "id": "builder-question-option-nlkftLMTdOUfLZoRKEfqDuuM",
+        "label": "Avslutt",
+        "value": -1
+      },
+      "autoplaySequence": [],
+      "prefix": "info9",
+      "includedInSumScores": [],
+      "_type": "info-page",
+      "mainText": {
+        "audioFile": {
+          "duration": 3.648,
+          "originalFileName": "caclOXJFnjPZDbJELMvXAFQTQcPsumDhFMZcyEApQCnoiFFntFEStPMpXYLsSGluDkHaCilVpoKmahBj",
+          "size": 29421,
+          "kind": "audio-file",
+          "downloadUrl": "http://localhost:3000/audio/61dkTCaRljuneMRKLJzr",
+          "name": "icf generell takk for at du ble med på denne underøskelsen",
+          "id": "61dkTCaRljuneMRKLJzr"
+        },
+        "autoplayDelay": 0,
+        "text": "Takk for at du ble med på denne undersøkelsen!",
+        "autoplay": true
+      },
+      "id": "NjcmCcnPGIZMDdGesZctTunITJpejnCz",
+      "defaultQuestion": {
+        "prefix": "",
+        "_type": "select-one",
+        "options": [
+          {
+            "id": "builder-question-option-ebNGniSZnPiOaibDifYacQvx",
+            "label": "Nei",
+            "value": 1
+          },
+          {
+            "id": "builder-question-option-SXQmsemAJDxKCBJMOvQdltNI",
+            "label": "Ja, litt",
+            "value": 2
+          },
+          {
+            "id": "builder-question-option-XdamSxktkdUspLNAEjvzNNtd",
+            "label": "Ja, veldig",
+            "value": 3
+          }
+        ],
+        "id": "builder-question-GgEqnSkhBKuBJyavDdCyulau",
+        "text": ""
+      },
+      "mainMedia": {
+        "file": {
+          "size": 106186,
+          "kind": "image-file",
+          "downloadUrl": "http://localhost:3000/image/7nxCjUKrTwTO1XW3pLIl",
+          "name": "EH-mål mestre",
+          "id": "7nxCjUKrTwTO1XW3pLIl",
+          "type": "image/png"
+        },
+        "overlay": false,
+        "kind": "main-image"
+      },
+      "tags": []
+    }
+  ]
+}
