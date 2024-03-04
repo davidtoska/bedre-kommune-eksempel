@@ -15,14 +15,17 @@ const schemaContainer = document.createElement('div');
 
 const schema = B.BuilderSchema.fromJson(detHandlerOmMeg);
 
+const origin = window.location.origin;
+console.log(origin);
+
 const compiled = schema.compile({
     blockAutoplayQuestion: false,
     blockAutoplayVideo: false,
     mediaAssets: {
         fileNameStrategy: "id",
-        audioFilesBaseUrl: "http://localhost:5173/ispe-audio",
-        videoFilesBaseUrl: "http://localhost:5173/ispe-video",
-        imageFilesBaseUrl: "http://localhost:5173/ispe-image",
+        audioFilesBaseUrl: origin + "/ispe-audio",
+        videoFilesBaseUrl: origin + "/ispe-video",
+        imageFilesBaseUrl: origin + "/ispe-image",
     },
 });
 
